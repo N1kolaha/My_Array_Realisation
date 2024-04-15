@@ -1,0 +1,13 @@
+﻿  Pyaterochka_Shop.cpp
+C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\Pyaterochka_Shop.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\Pyaterochka_Shop.cpp(417,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\2ЛАБ.h(208,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\2ЛАБ.h(204,7): message : во время компиляции функции-члена класс шаблон "void My_Array<int,1000>::push(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\Pyaterochka_Shop.cpp(230,17): message : см. первую ссылку на "My_Array<int,1000>::push" в "CartInput"
+C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\Pyaterochka_Shop.cpp(37,21): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "My_Array<int,1000>"
+C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\Pyaterochka_Shop.cpp(31): warning C4172: возвращение адреса локальной или временной переменной
+  Pyaterochka_Shop.vcxproj -> C:\Users\gavre\Desktop\Папочки\Практика Алгоритмизация\Pyaterochka_Shop\x64\Debug\Pyaterochka_Shop.exe
